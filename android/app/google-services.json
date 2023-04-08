@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737368336780",
+    "project_id": "otp-code-verification-pr-c930d",
+    "storage_bucket": "otp-code-verification-pr-c930d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737368336780:android:2ec8417d42ee22bf674ea9",
+        "android_client_info": {
+          "package_name": "com.example.otp_code_verification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737368336780-bqjs3oe76j84k2s0v550oep61fi8n8ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLwZmjzju6kXpSCUVDucayUMgtRD7VtnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737368336780-bqjs3oe76j84k2s0v550oep61fi8n8ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
